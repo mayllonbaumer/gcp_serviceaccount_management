@@ -1,0 +1,1 @@
+Repository used as a code example for managing service accounts in a Google Cloud project via Terraform.
